@@ -1,11 +1,21 @@
 #If you have some testimonials list them here
 
-- quote: Thanks for being great!
+- quote: Always provides clear explanations and eager to help with any questions we have.
   person:
-    name: John Doe
-    title: CEO, Company ABC
+    name: Anonymous Student Evaluation
+    title: WPI, Accelerated Object-Oriented Design Student
 
-- quote: Thanks for being awesome!
+- quote: Super clear with explanations; all around awesome TA.
   person:
-    name: Jane Doe
-    title: COO, Company ABC
+    name: Anonymous Student Evaluation
+    title: WPI, Accelerated Introduction to Program Design Student
+
+- quote: Overall, Ashley was an awesome TA. I went to some of her office hours and she was able to easily answer my questions in a very clear way. She was very helpful and clear when grading assignments too.
+  person:
+    name: Anonymous Student Evaluation
+    title: WPI, Accelerated Introduction to Program Design Student
+
+- quote: Very approachable. She provides good explanations and is fair with grading.
+  person:
+    name: Anonymous Student Evaluation
+    title: WPI, Algorithms

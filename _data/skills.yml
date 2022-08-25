@@ -1,36 +1,34 @@
-header: Say something about what you're good at
-
-subheader: Give some more context
+header: As a web developer and data scientist, I can assist in a wide range of projects and possess the skills to pick up new concepts on the fly. 
 
 skill_list:
-  - name: Skill 1
-    description: A quick sentence or two describing your skill
+  - name: Attention to Detail
+    description: Dives into project requirements and contexts in order to gain the knowledge needed to attack the problem as an expert
 
-  - name: Skill 2
-    description: A quick sentence or two describing your skill
+  - name: Interdisciplinary Communication
+    description: Translates deep domain knowledge into understandable terms for team members from different contexts
 
-  - name: Skill 3
-    description: A quick sentence or two describing your skill
+  - name: Problem Solving
+    description: Attacks a problem from different perspectives when one attempt does not work
 
 #If you have certifications, talk about them here
-certifications:
-  - name: Certification 1
-    topics:
-      - Topic 1A
-      - Topic 1B
-      - Topic 1C
-      - Topic 1D
+#certifications:
+#  - name: Certification 1
+#    topics:
+#      - Topic 1A
+#      - Topic 1B
+#      - Topic 1C
+#      - Topic 1D
 
-  - name: Certification 2
-    topics:
-      - Topic 2A
-      - Topic 2B
-      - Topic 2C
-      - Topic 2D
+#  - name: Certification 2
+#    topics:
+#      - Topic 2A
+#      - Topic 2B
+#      - Topic 2C
+#      - Topic 2D
 
-  - name: Certification 3
-    topics:
-      - Topic 3A
-      - Topic 3B
-      - Topic 3C
-      - Topic 3D
+#  - name: Certification 3
+#    topics:
+#      - Topic 3A
+#      - Topic 3B
+#      - Topic 3C
+#      - Topic 3D

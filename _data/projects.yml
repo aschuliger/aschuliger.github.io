@@ -1,13 +1,37 @@
 #If you have worked on relevant projects talk about them here
 
-- name: Project 1
-  description: A few sentences describing your project.
+- name: Cleaning On Demand with a Recommendation System (CODeRS)
+  description: An automated cleaning and preprocessing web application that allows non-technical users to clean data for data science applications in their field. Working in a group of two developers, we built this web application from scratch utilizing Ruby on Rails, Python, HTML, and CSS. Our application provides users the opportunity to view the state of outliers and null values in their dataset and choose how to clean them. For outlier and null correction, we determined the appropriate cleaning algorithms through a literature review of state-of-the-art cleaning techniques are both point data and time series data. Given the use case of this web application, we dedicated time to evaluate our UI/UX design through a series of user studies with Materials Science research students and professors at WPI.
 
-- name: Project 2
-  description: A few sentences describing your project.
+- name: A Comparitive Study of Multiple-Instance Regression Techniques with Data Augmentation for Cold Spray Powder Hall Flow Rate Prediction
+  description: For my Masters thesis, I explored the usage of various Multiple-Instance Regression techniques for preprocessing powder data before predicting its Hall flow. I utilized Python and scikit-learn to develop and run Multiple-Instance Regression techniques, including Aggregated, Instance, and Pruning Multiple-Instance Regression. After preprocessing the data using each method, I compared their performance by predicting the Hall flow of each powder with a simple Decision Tree classifier. I also developed a novel technique for augmenting Multiple-Instance powder data. Due to the volume of data involved, I worked with the XSEDE supercomputer to run my models.
+# Cold spray is a type of additive manufacturing that is utilized by the military to fix vehicle parts more efficiently. Materials Science research literature shows that a powder's performance in cold spray is tied 
+# directly to its Hall Flow rate (how fast it can flow through a funnel), but there is no known way to determine this Hall Flow rate easily. Additionally, powder data is abnormal in that the powder instance consists 
+# of multiple particles that each have their own set of data. Currently, literature regarding using machine learning techniques on such Multiple-Instance data is sparse.
 
-- name: Project 3
-  description: A few sentences describing your project.
+- name: ConnectYa
+  description: An online social media platform to connect unemployed youth in Australia. I worked in a group of two developers to develop this web application from scratch using Ruby on Rails, HTML, and CSS in the MVC framework. As the back-end expert on this project, I built out the structure of the application and handled all data migrations and model upkeep. For our database, we utilized PostgreSQL. We also practiced good UI/UX design by holding several user studies with our intended audience to gather feedback regarding the application's design and structure.
 
-- name: Project 4
-  description: A few sentences describing your project.
+- name: ScriptHero
+  description: An online prescription application that helps people find discounts on their prescriptions. As an intern at Covermymeds, I helped develop this application utilizing Ruby on Rails, HTML, and SCSS. I created and ran data and schema migrations to both implement and make adjustments to the Scripthero database using Ruby on Rails, SQL and Azure Data Studio. I also developed custom database and intuitive UI/UX solutions using HTML and Bulma for data analysts at Covermymeds to assist them in updating and maintaining user event data in the database.
+
+- name: Event Planning
+  description: As the event coordinator of WPI's Computer Science Honors Society (UPE), I organized events for our members as well as the computer science department at WPI. My most notable contribution is a Career Fair scavenger hunt event I hosted for our Computer Science department. I created a career fair passport for every student that outlined a series of tasks that would help them be successful at this career fair and beyond, including updating their resume, giving an elevator pitch to a perspective employer, and connecting with an employer on LinkedIn. I incentivized the event by giving students a programming sticker if they completed 2/3rds of the tasks.
+
+- name: Classifying and Localizaing Metastatic Tumor Cells using Deep Neural Networks
+  description: A deep neural network composed of convolutional and recurrent neural network layers to classify tumor cells in images. I developed this network utilizing Python and PyTorch as well as Local Interpretable Model-agnostic Explanations (LIME) to localize tumor cells.
+
+- name: Taxicab Trajectory Classification using Meta Learning
+  description: A Siamese Network with Recurrent Neural Networks to determine whether two taxicab trajectories were produced by the same taxicab driver. I developed this network utilizing Python and Pytorch and achieved an accuracy of 81.33% on a held-out test dataset.
+
+- name: Grant Writing
+  description: I co-authored a proposal to create the Women's Interdisciplinary Scholarship Engagement (WISE) Network at WPI to assist women in entering and cultivating their interest in interdisciplinary research. Our proposal received funding, and I served as an Executive Committee Member.
+
+- name: Teaching (research)
+  description: As a senior member of the Data Driven Materials Science research group at WPI, I took it upon myself to create a set of data science lessons and modules to onboard new members. I create lecture slides, recorded lectures, and homework problems utilizing real problems in our research group to aid in their learning of Data Science concepts.
+
+- name: Teacher Assistant
+  description: I worked as a TA for the Computer Science department at WPI for 3 years in a variety of classes, including Accelerated Introduction to Program Design, Accelerated Object-Oriented Design, Database Systems I, Machine Learning, Algorithms, and Software Engineering. I held office hours, study sessions, and graded exams and projects.
+
+- name: ACM Publication
+  description: Co-authored a chapter for an ACM publication on time series representations.
